@@ -1,0 +1,3 @@
+../Core/Src/delay_timer.c:8:6:DELAY_Tim_Init	16	static
+../Core/Src/delay_timer.c:21:6:DELAY_Tim_Us	16	static
+../Core/Src/delay_timer.c:36:6:DELAY_Tim_Ms	16	static
